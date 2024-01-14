@@ -10,5 +10,5 @@
 	- Khi sửa đổi ở phần server thi phải sạc lại server bằng cách ngắt server $ CtrlC
 	--> đó là các bước để thiết kế hệ thống local
 	
-	- sau khi thực hiện xong thì đưa lên internet bằng heroku sử dụng cmd (cách thực hiện có trong báo cáo)
+	- sau khi thực hiện xong thì đưa lên internet bằng heroku sử dụng cmd 
 
